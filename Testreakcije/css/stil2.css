@@ -1,0 +1,21 @@
+#shape {
+    
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+
+body {
+    
+    font-family: fantasy;
+}
+
+span {
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 18px;
+}
